@@ -19,6 +19,7 @@
     "dotenv": "^17.2.2",
     "express": "^5.1.0",
     "express-rate-limit": "^8.1.0",
+    "mern-app": "file:..",
     "mongoose": "^8.18.1",
     "rate-limit-redis": "^4.2.2"
   },
